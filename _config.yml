@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chieh (Ross) Wang, Ph.D."
+title                    : "C. Ross Wang, Ph.D."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "C. Ross Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "R&D Staff and Group Leader, Applied Research for Mobility Systems"
   location         : "TN, USA"
   employer         : "Oak Ridge National Laboratory"
   pubmed           : 
